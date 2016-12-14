@@ -1,0 +1,3 @@
+name: Alan Makes Websites
+markdown: redcarpet
+exclude: ["node_modules", "gulpfile.js", "package.json"]
